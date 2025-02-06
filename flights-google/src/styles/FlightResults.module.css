@@ -1,0 +1,26 @@
+.resultsContainer {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    height: 100vh;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .flightCard {
+    padding: 10px;
+    background: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .noResults {
+    text-align: center;
+    color: gray;
+  }
+  
